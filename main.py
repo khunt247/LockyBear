@@ -1,6 +1,6 @@
 import utils
 
-print (" Welcome to LockyBear! I am going to help you manage passwords! 🐻")
+print ("Welcome to LockyBear! I am going to help you manage passwords! 🐻")
 
 task = input("What would you like to do? (save password or retrieve password)?")
 
